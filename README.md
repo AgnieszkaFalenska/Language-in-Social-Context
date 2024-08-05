@@ -25,7 +25,7 @@ In bringing together NLP and sociolinguistics, we aim to establish a comparable 
 
 | Day | Title                     | Slides | 
 | -- | ------------------------ | ----------- |
-|1| Introduction    | TBA |
+|1| Introduction    | [Day 1](slides/day1.pdf) |
 |2| Demographic factors (I) | TBA |
 |3| Demographic factors (II) |  TBA |
 |4| Language variation in interaction | TBA |
@@ -39,7 +39,7 @@ Students with previous experience in programming can run additional practical ex
 | -- | ------------------------ | -----------  | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
 | 1  | Data Analysis | [Trust Data](https://github.com/MilaNLProc/translation_bias)      | [Google Colab](https://colab.research.google.com/drive/1ctMPBupu07Nr8UsP_WuJe7VFHjjocoWE?usp=sharing)     | [Local Notebook](notebooks/Trust_Data_Analysis.ipynb) |
 |2| Geographical Variability | Twitter | [Google Colab](https://colab.research.google.com/drive/1Q9wdazDkoryDuld52ZzRk0UriyyjcjQH) | TBA |
-|3| Gender Variability | [Trust Data](https://github.com/MilaNLProc/translation_bias) | TBA | TBA |
+|3| Gender Variability | [Trust Data](https://github.com/MilaNLProc/translation_bias) | [Google Colab](https://colab.research.google.com/drive/1I4sUJhfr06EgE99VFy3WK0VyeOOY5SyH?usp=sharing) | TBA |
 |4| Style Accomodation| Reddit | TBA | TBA |
 
 ## Pre-requirements for practical exercises
