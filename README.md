@@ -26,7 +26,7 @@ In bringing together NLP and sociolinguistics, we aim to establish a comparable 
 | Day | Title                     | Slides | 
 | -- | ------------------------ | ----------- |
 |1| Introduction    | [Day 1](slides/day1.pdf) |
-|2| Demographic factors (I) | TBA |
+|2| Demographic factors (I) | [Day 2]{slides/day2.pdf) |
 |3| Demographic factors (II) |  TBA |
 |4| Language variation in interaction | TBA |
 |5| NLP applications and challenges | TBA |
