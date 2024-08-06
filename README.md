@@ -38,7 +38,7 @@ Students with previous experience in programming can run additional practical ex
 | Day | Task                     | Dataset  | Google Colab (recommended)                                                                                                                                                                        |  Jupyter notebook  (run locally) |
 | -- | ------------------------ | -----------  | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
 | 1  | Data Analysis | [Trust Data](https://github.com/MilaNLProc/translation_bias)      | [Google Colab](https://colab.research.google.com/drive/1ctMPBupu07Nr8UsP_WuJe7VFHjjocoWE?usp=sharing)     | [Local Notebook](notebooks/Trust_Data_Analysis.ipynb) |
-|2| Geographical Variability | [Twitter](http://redac.univ-tlse2.fr/corpus/canen.html) | [Google Colab](https://colab.research.google.com/drive/1Q9wdazDkoryDuld52ZzRk0UriyyjcjQH) | TBA |
+|2| Geographical Variability | [Twitter](http://redac.univ-tlse2.fr/corpus/canen.html) | [Google Colab](https://colab.research.google.com/drive/1Q9wdazDkoryDuld52ZzRk0UriyyjcjQH) | [Local Notebook](notebooks/TwitterData.ipynb) |
 |3| Gender Variability | [Trust Data](https://github.com/MilaNLProc/translation_bias) | [Google Colab](https://colab.research.google.com/drive/1I4sUJhfr06EgE99VFy3WK0VyeOOY5SyH?usp=sharing) | [Local Notebook](notebooks/TrustData_Gender.ipynb) |
 |4| Style Accomodation| [Reddit CMV](https://chenhaot.com/data/cmv/cmv.tar.bz2) | TBA | TBA |
 
