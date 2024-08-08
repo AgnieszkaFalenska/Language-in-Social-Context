@@ -27,7 +27,7 @@ In bringing together NLP and sociolinguistics, we aim to establish a comparable 
 | -- | ------------------------ | ----------- |
 |1| Introduction    | [Day 1](slides/day1.pdf) |
 |2| Demographic factors (I) | [Day 2](slides/day2.pdf) |
-|3| Demographic factors (II) |  TBA |
+|3| Demographic factors (II) |  [Day 2](slides/day3.pdf) |
 |4| Language variation in interaction | TBA |
 |5| NLP applications and challenges | TBA |
 
@@ -40,7 +40,7 @@ Students with previous experience in programming can run additional practical ex
 | 1  | Data Analysis | [Trust Data](https://github.com/MilaNLProc/translation_bias)      | [Google Colab](https://colab.research.google.com/drive/1ctMPBupu07Nr8UsP_WuJe7VFHjjocoWE?usp=sharing)     | [Local Notebook](notebooks/Trust_Data_Analysis.ipynb) |
 |2| Geographical Variability | [Twitter](http://redac.univ-tlse2.fr/corpus/canen.html) | [Google Colab](https://colab.research.google.com/drive/1Q9wdazDkoryDuld52ZzRk0UriyyjcjQH) | [Local Notebook](notebooks/TwitterData.ipynb) |
 |3| Gender Variability | [Trust Data](https://github.com/MilaNLProc/translation_bias) | [Google Colab](https://colab.research.google.com/drive/1I4sUJhfr06EgE99VFy3WK0VyeOOY5SyH?usp=sharing) | [Local Notebook](notebooks/TrustData_Gender.ipynb) |
-|4| Style Accomodation| [Reddit CMV](https://chenhaot.com/data/cmv/cmv.tar.bz2) | TBA | TBA |
+|4| Style Accomodation| [Reddit CMV](https://chenhaot.com/data/cmv/cmv.tar.bz2) | [Google Colab]([https://colab.research.google.com/drive/1I4sUJhfr06EgE99VFy3WK0VyeOOY5SyH?usp=sharing](https://colab.research.google.com/drive/1FBYynsBdVWUBLk-QDQE4kP8kSnfj1Y-k?usp=sharing)) | [Local Notebook](notebooks/CMV_Data_Analysis.ipynb) |
 
 ## Pre-requirements for practical exercises
 Basic Python knowledge: [Python tutorial](https://www.tutorialspoint.com/python/index.htm) <br>
